@@ -1,0 +1,15 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\bin\Debug\net9.0\UserAccountManagementSystem.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\bin\Debug\net9.0\UserAccountManagementSystem.deps.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\bin\Debug\net9.0\UserAccountManagementSystem.runtimeconfig.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\bin\Debug\net9.0\UserAccountManagementSystem.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\bin\Debug\net9.0\UserAccountManagementSystem.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\obj\Debug\net9.0\UserAccountManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\obj\Debug\net9.0\UserAccountManagementSystem.AssemblyInfoInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\obj\Debug\net9.0\UserAccountManagementSystem.AssemblyInfo.cs
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\obj\Debug\net9.0\UserAccountManagementSystem.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\obj\Debug\net9.0\UserAccountManagementSystem.sourcelink.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\obj\Debug\net9.0\UserAccountManagementSystem.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\obj\Debug\net9.0\refint\UserAccountManagementSystem.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\obj\Debug\net9.0\UserAccountManagementSystem.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\obj\Debug\net9.0\UserAccountManagementSystem.genruntimeconfig.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section3\UserAccountManagementSystem\UserAccountManagementSystem\obj\Debug\net9.0\ref\UserAccountManagementSystem.dll
