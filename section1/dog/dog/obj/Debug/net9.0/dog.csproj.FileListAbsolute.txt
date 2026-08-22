@@ -1,0 +1,15 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\bin\Debug\net9.0\dog.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\bin\Debug\net9.0\dog.deps.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\bin\Debug\net9.0\dog.runtimeconfig.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\bin\Debug\net9.0\dog.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\bin\Debug\net9.0\dog.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\obj\Debug\net9.0\dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\obj\Debug\net9.0\dog.AssemblyInfoInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\obj\Debug\net9.0\dog.AssemblyInfo.cs
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\obj\Debug\net9.0\dog.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\obj\Debug\net9.0\dog.sourcelink.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\obj\Debug\net9.0\dog.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\obj\Debug\net9.0\refint\dog.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\obj\Debug\net9.0\dog.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\obj\Debug\net9.0\dog.genruntimeconfig.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\section1\dog\dog\obj\Debug\net9.0\ref\dog.dll
