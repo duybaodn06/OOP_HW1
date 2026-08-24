@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session04\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session04\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session03\\useraccountmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session03\\useraccountmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session01\\student.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session01\\student.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session01\\dog.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session01\\dog.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session01\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session01\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\homework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\homework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserAccountManagementSystem.cs",
               "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session03\\UserAccountManagementSystem.cs",
               "RelativeDocumentMoniker": "Homework\\session03\\UserAccountManagementSystem.cs",
               "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session03\\UserAccountManagementSystem.cs",
               "RelativeToolTip": "Homework\\session03\\UserAccountManagementSystem.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-22T08:42:45.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-24T00:35:55.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "student.cs",
-              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session02\\student.cs",
-              "RelativeDocumentMoniker": "Homework\\session02\\student.cs",
-              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session02\\student.cs",
-              "RelativeToolTip": "Homework\\session02\\student.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAADwv0QAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "bankAccount.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session04\\bankAccount.cs",
+              "RelativeDocumentMoniker": "Homework\\session04\\bankAccount.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session04\\bankAccount.cs",
+              "RelativeToolTip": "Homework\\session04\\bankAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-22T08:40:54.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "student.cd",
-              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session01\\student.cd",
-              "RelativeDocumentMoniker": "Homework\\session01\\student.cd",
-              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session01\\student.cd",
-              "RelativeToolTip": "Homework\\session01\\student.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2026-08-22T08:40:24.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dog.cd",
-              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session01\\dog.cd",
-              "RelativeDocumentMoniker": "Homework\\session01\\dog.cd",
-              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session01\\dog.cd",
-              "RelativeToolTip": "Homework\\session01\\dog.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2026-08-22T08:40:06.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "student.cs",
-              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session01\\student.cs",
-              "RelativeDocumentMoniker": "Homework\\session01\\student.cs",
-              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session01\\student.cs",
-              "RelativeToolTip": "Homework\\session01\\student.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAqwC4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-22T08:37:17.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "dog.cs",
-              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session01\\dog.cs",
-              "RelativeDocumentMoniker": "Homework\\session01\\dog.cs",
-              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session01\\dog.cs",
-              "RelativeToolTip": "Homework\\session01\\dog.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA7wCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-22T08:36:23.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Homework",
-              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\Homework.csproj",
-              "RelativeDocumentMoniker": "Homework\\Homework.csproj",
-              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\Homework.csproj",
-              "RelativeToolTip": "Homework\\Homework.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-22T08:35:15.582Z",
+              "WhenOpened": "2026-08-24T00:33:58.338Z",
               "EditorCaption": ""
             }
           ]
