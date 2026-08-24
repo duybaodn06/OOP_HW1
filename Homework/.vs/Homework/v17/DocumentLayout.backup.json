@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session04\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session04\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session03\\useraccountmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session03\\useraccountmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAccountManagementSystem.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session03\\UserAccountManagementSystem.cs",
+              "RelativeDocumentMoniker": "Homework\\session03\\UserAccountManagementSystem.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session03\\UserAccountManagementSystem.cs",
+              "RelativeToolTip": "Homework\\session03\\UserAccountManagementSystem.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:35:55.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bankAccount.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session04\\bankAccount.cs",
+              "RelativeDocumentMoniker": "Homework\\session04\\bankAccount.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session04\\bankAccount.cs",
+              "RelativeToolTip": "Homework\\session04\\bankAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:33:58.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

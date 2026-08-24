@@ -1,0 +1,15 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\bin\Debug\net9.0\Homework.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\bin\Debug\net9.0\Homework.deps.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\bin\Debug\net9.0\Homework.runtimeconfig.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\bin\Debug\net9.0\Homework.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\bin\Debug\net9.0\Homework.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\obj\Debug\net9.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\obj\Debug\net9.0\Homework.AssemblyInfoInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\obj\Debug\net9.0\Homework.AssemblyInfo.cs
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\obj\Debug\net9.0\Homework.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\obj\Debug\net9.0\Homework.sourcelink.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\obj\Debug\net9.0\Homework.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\obj\Debug\net9.0\refint\Homework.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\obj\Debug\net9.0\Homework.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\obj\Debug\net9.0\Homework.genruntimeconfig.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\Homework\Homework\obj\Debug\net9.0\ref\Homework.dll
