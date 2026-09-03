@@ -133,7 +133,7 @@ public class BankAccount
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main5(string[] args)
     {
         BankAccount account = new BankAccount("John Doe", 500.00m, "1234");
 
