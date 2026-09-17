@@ -1,0 +1,15 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\bin\Debug\net9.0\Module03.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\bin\Debug\net9.0\Module03.deps.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\bin\Debug\net9.0\Module03.runtimeconfig.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\bin\Debug\net9.0\Module03.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\bin\Debug\net9.0\Module03.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\obj\Debug\net9.0\Module03.GeneratedMSBuildEditorConfig.editorconfig
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\obj\Debug\net9.0\Module03.AssemblyInfoInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\obj\Debug\net9.0\Module03.AssemblyInfo.cs
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\obj\Debug\net9.0\Module03.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\obj\Debug\net9.0\Module03.sourcelink.json
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\obj\Debug\net9.0\Module03.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\obj\Debug\net9.0\refint\Module03.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\obj\Debug\net9.0\Module03.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\obj\Debug\net9.0\Module03.genruntimeconfig.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\OOP_hw\31251027590_NguyenDuyBao\31251027590_NguyenDuyBao\obj\Debug\net9.0\ref\Module03.dll

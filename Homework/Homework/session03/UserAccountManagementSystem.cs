@@ -25,8 +25,12 @@ public class UserAccount
     public DateTime CreatedDate { get; }
 
     // Constructor
-    public UserAccount()
+    public UserAccount(string accountId, string username, string password)
     {
+        this.AccountId = accountId;
+        this.Username = username;
+        this.Password = password;
+        this.Balance = 0m;
         // TODO: Initialize CreatedDate here
         CreatedDate = DateTime.Now;
     }
@@ -38,13 +42,7 @@ public class UserAccount
             // --- TEST HARNESS ---
 
             // 1. Test Object Initialization & Init-Only Property
-            UserAccount user = new UserAccount
-            {
-                AccountId = "ACC-99201",
-                Username = "Alice_Code",
-                Password = "SuperSecretPassword123"
-            };
-
+            UserAccount user = new UserAccount("ACC-99201", "Alice_Code", "SuperSecretPassword123");
             // Attempting to modify AccountId after creation should fail compilation!
             // user.AccountId = "ACC-00000"; // UNCOMMENT TO VERIFY COMPILER ERROR
 

@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai06\\hangthucpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai06\\hangthucpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai06\\hangsanhsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai06\\hangsanhsu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai06\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai06\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai06\\danhsachhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai06\\danhsachhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai06\\hangdienmay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai06\\hangdienmay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai05\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai05\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai05\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai05\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai05\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai05\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai05\\basepluscommission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai05\\basepluscommission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\31251027590_nguyenduybao\\31251027590_nguyenduybao\\bai05\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BBE15F-E74E-4C36-B6CC-4073BC055D07}|31251027590_NguyenDuyBao\\Module03.csproj|solutionrelative:31251027590_nguyenduybao\\bai05\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\HangHoa.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai06\\HangHoa.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\HangHoa.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai06\\HangHoa.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv0cAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T15:45:17.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangSanhSu.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\HangSanhSu.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai06\\HangSanhSu.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\HangSanhSu.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai06\\HangSanhSu.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T09:47:21.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\Program.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai06\\Program.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\Program.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai06\\Program.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T16:20:58.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HangDienMay.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\HangDienMay.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai06\\HangDienMay.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\HangDienMay.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai06\\HangDienMay.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T09:40:06.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhSachHangHoa.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\DanhSachHangHoa.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai06\\DanhSachHangHoa.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\DanhSachHangHoa.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai06\\DanhSachHangHoa.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T15:55:22.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangThucPham.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\HangThucPham.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai06\\HangThucPham.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai06\\HangThucPham.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai06\\HangThucPham.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDEAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T16:28:42.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\Program.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai05\\Program.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\Program.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai05\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T15:23:17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai04\\Program.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai04\\Program.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai04\\Program.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai04\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T15:23:05.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai05\\SalariedEmployee.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\SalariedEmployee.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai05\\SalariedEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T14:45:59.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai05\\HourlyEmployee.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\HourlyEmployee.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai05\\HourlyEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T14:52:35.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\Employee.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai05\\Employee.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\Employee.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai05\\Employee.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T14:40:12.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasePlusCommission.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\BasePlusCommission.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai05\\BasePlusCommission.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\BasePlusCommission.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai05\\BasePlusCommission.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T15:14:27.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommissionEmployee.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\CommissionEmployee.cs",
+              "RelativeDocumentMoniker": "31251027590_NguyenDuyBao\\bai05\\CommissionEmployee.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\31251027590_NguyenDuyBao\\31251027590_NguyenDuyBao\\bai05\\CommissionEmployee.cs",
+              "RelativeToolTip": "31251027590_NguyenDuyBao\\bai05\\CommissionEmployee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBcAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T15:05:42.618Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

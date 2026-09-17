@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\studentmanagement\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\studentmanagement\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\studentmanagement\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\studentmanagement\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\studentmanagement\\studentsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\studentmanagement\\studentsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\studentmanagement\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\studentmanagement\\studentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session04\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session04\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\diegame\\pairofdice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\diegame\\pairofdice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\diegame\\rolldice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\diegame\\rolldice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\studentmanagement\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\studentmanagement\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session05\\diegame\\die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session05\\diegame\\die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session03\\useraccountmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +45,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\oop_hw\\homework\\homework\\session04\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F23D14F-F837-4F74-AE60-83BA3652DA61}|Homework\\Homework.csproj|solutionrelative:homework\\session04\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,83 +62,148 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\Subject.cs",
-              "RelativeDocumentMoniker": "Homework\\session05\\Subject.cs",
-              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\Subject.cs",
-              "RelativeToolTip": "Homework\\session05\\Subject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "StudentManagement.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\StudentManagement\\StudentManagement.cs",
+              "RelativeDocumentMoniker": "Homework\\session05\\StudentManagement\\StudentManagement.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\StudentManagement\\StudentManagement.cs",
+              "RelativeToolTip": "Homework\\session05\\StudentManagement\\StudentManagement.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwFkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T10:22:15.115Z",
+              "WhenOpened": "2026-09-05T07:38:46.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\Student.cs",
-              "RelativeDocumentMoniker": "Homework\\session05\\Student.cs",
-              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\Student.cs",
-              "RelativeToolTip": "Homework\\session05\\Student.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\StudentManagement\\Student.cs",
+              "RelativeDocumentMoniker": "Homework\\session05\\StudentManagement\\Student.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\StudentManagement\\Student.cs",
+              "RelativeToolTip": "Homework\\session05\\StudentManagement\\Student.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvyYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T10:19:18.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "StudentSubject.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\StudentManagement\\StudentSubject.cs",
+              "RelativeDocumentMoniker": "Homework\\session05\\StudentManagement\\StudentSubject.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\StudentManagement\\StudentSubject.cs",
+              "RelativeToolTip": "Homework\\session05\\StudentManagement\\StudentSubject.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T10:39:00.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\StudentManagement\\Subject.cs",
+              "RelativeDocumentMoniker": "Homework\\session05\\StudentManagement\\Subject.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\StudentManagement\\Subject.cs",
+              "RelativeToolTip": "Homework\\session05\\StudentManagement\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T10:22:15.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RollDice.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\DieGame\\RollDice.cs",
+              "RelativeDocumentMoniker": "Homework\\session05\\DieGame\\RollDice.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\DieGame\\RollDice.cs",
+              "RelativeToolTip": "Homework\\session05\\DieGame\\RollDice.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T06:37:01.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PairOfDice.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\DieGame\\PairOfDice.cs",
+              "RelativeDocumentMoniker": "Homework\\session05\\DieGame\\PairOfDice.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\DieGame\\PairOfDice.cs",
+              "RelativeToolTip": "Homework\\session05\\DieGame\\PairOfDice.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T06:34:33.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Classes.cs",
-              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\Classes.cs",
-              "RelativeDocumentMoniker": "Homework\\session05\\Classes.cs",
-              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\Classes.cs",
-              "RelativeToolTip": "Homework\\session05\\Classes.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwBkAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\StudentManagement\\Classes.cs",
+              "RelativeDocumentMoniker": "Homework\\session05\\StudentManagement\\Classes.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\StudentManagement\\Classes.cs",
+              "RelativeToolTip": "Homework\\session05\\StudentManagement\\Classes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T10:17:30.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session01\\student.cs",
+              "RelativeDocumentMoniker": "Homework\\session01\\student.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session01\\student.cs",
+              "RelativeToolTip": "Homework\\session01\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T07:13:24.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Die.cs",
-              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\Die.cs",
-              "RelativeDocumentMoniker": "Homework\\session05\\Die.cs",
-              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\Die.cs",
-              "RelativeToolTip": "Homework\\session05\\Die.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\DieGame\\Die.cs",
+              "RelativeDocumentMoniker": "Homework\\session05\\DieGame\\Die.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session05\\DieGame\\Die.cs",
+              "RelativeToolTip": "Homework\\session05\\DieGame\\Die.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA8wBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T09:49:11.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "student.cs",
-              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session02\\student.cs",
-              "RelativeDocumentMoniker": "Homework\\session02\\student.cs",
-              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session02\\student.cs",
-              "RelativeToolTip": "Homework\\session02\\student.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T05:58:57.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "UserAccountManagementSystem.cs",
               "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session03\\UserAccountManagementSystem.cs",
               "RelativeDocumentMoniker": "Homework\\session03\\UserAccountManagementSystem.cs",
               "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session03\\UserAccountManagementSystem.cs",
               "RelativeToolTip": "Homework\\session03\\UserAccountManagementSystem.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-24T00:35:55.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session02\\student.cs",
+              "RelativeDocumentMoniker": "Homework\\session02\\student.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session02\\student.cs",
+              "RelativeToolTip": "Homework\\session02\\student.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T05:58:57.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "bankAccount.cs",
               "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\OOP_hw\\Homework\\Homework\\session04\\bankAccount.cs",
               "RelativeDocumentMoniker": "Homework\\session04\\bankAccount.cs",
