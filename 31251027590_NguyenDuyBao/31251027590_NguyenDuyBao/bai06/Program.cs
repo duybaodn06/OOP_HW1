@@ -8,7 +8,7 @@ namespace _31251027590_NguyenDuyBao.bai06
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
